@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Web App: Patient-List"
-date:       2018-10-16 17:39:25 +0000
+date:       2018-10-16 13:39:25 -0400
 permalink:  sinatra_web_app_patient-list
 ---
 
