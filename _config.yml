@@ -1,15 +1,14 @@
 # Site settings
+author: Will Lee
 title: A Cup of Coffee and Some Code
 header-img: img/home-bg.png
-email: will.i.lee@outlook.com
-copyright_name: freeWillee
+email: will.ik.lee@gmail.com
+copyright_name: Will Lee
 description: > # this means to ignore newlines until "baseurl:"
   Musings of my journey into the world of coding!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  freeWillee
-learn_profile: freeWillee
-email_username: will.i.lee@outlook.com
 
 # Build settings
 markdown: kramdown
