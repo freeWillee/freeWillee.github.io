@@ -6,7 +6,7 @@ email: will.ik.lee@gmail.com
 copyright_name: Will L
 description: > # this means to ignore newlines until "baseurl:"
   Musings of my journey into the world of coding!
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://thewiredcoder.com"
 twitter_username: 
 github_username:  freeWillee
 
