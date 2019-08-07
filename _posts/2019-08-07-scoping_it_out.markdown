@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Scoping it out"
-date:       2019-08-07 15:02:09 +0000
+date:       2019-08-07 11:02:10 -0400
 permalink:  scoping_it_out
 ---
 
 
-The content of your blog postWhat is scope in JS? This is a really basic overview of what it is:
+What is scope in JS? This is a really basic overview of what it is:
 
 When we talk about scope, we mean where something is available. In the context of Javascript it is the set of rules that determine where a variable can be looked up and determined.
 
